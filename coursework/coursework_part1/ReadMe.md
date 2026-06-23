@@ -4,6 +4,6 @@ Put your coursewok here!
 
 Using your PhD research data, protocol, code, etc, write a report explaining from where you start, which measures are already in place to increase reproducibility as per concepts presented during days 1 and 2. What measures can be taken to increase reproducibility and if any, why some cannot be implemented? (page count 2 to 3)
 
-Submit your coursework by September 14th either via e-mail to Cyril and Melanie or by making a PR to the repo and adding it to the ReproducibleQuantitativeDataScience-2026\coursework\coursework_part1 folder.
+Submit your coursework by September 6th either via e-mail to Cyril and Melanie or by making a PR to the repo and adding it to the ReproducibleQuantitativeDataScience-2026\coursework\coursework_part1 folder.
 
 

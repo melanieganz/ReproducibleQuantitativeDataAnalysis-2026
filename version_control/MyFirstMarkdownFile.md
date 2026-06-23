@@ -1,15 +1,18 @@
 ﻿# Reproducible Quantitative Data Science
 
-## Markdown exercise  .. cyril's copy -- yet another change
+## Markdown exercise
+Let's write some markdown text together!
+Let's use fonts, such as **bold** or _italic_ or a _**combination of both**_
 
-**Let’s _write_ some markdown text** _together_ here!
+This is the [Github main page](https://github.com/melanieganz/ReproducibleQuantitativeDataAnalysis-2026)!
 
-[This is the Gitub main page](https://github.com/)
-[This links to the subtitle](#my-subtitle)
+![Markdown logo](https://github.com/melanieganz/ReproducibleQuantitativeDataAnalysis-2026/blob/main/markdown/Markdown-mark.jpg?raw=true)
 
-This is a logo we fetched from GitHub![Let's display the markdown logo](https://raw.githubusercontent.com/CPernet/ReproducibleQuantitativeDataScience/main/markdown/Markdown-mark.jpg)
 
-### It's Me
+### It's me
+* Théo
+* Previous workplaces
+	* ITU
+	* CentraleSupelec
 
-* Cyril, NeuroImaging, stats, Data Science
-* Melanie, NeuroImaging, Machine Learning, Data Science
+

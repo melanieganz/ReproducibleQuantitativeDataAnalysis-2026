@@ -1,6 +1,8 @@
 # ReproducibleQuantitativeDataAnalysis-2026
 Repository for the UCPH SCIENCE PhD course Reproducible Quantitative Data Analysis 2026
 
+My own file
+
 # ReproducibleQuantitativeDataScience
 
 A course prepared by Dr Melanie Ganz and Dr Cyril Pernet and guest speakers, e.g. Michael Hanke. The course structure is over 5 days plus personal work: 2 days, course work, 2 days, course work, and 1 day with presentations.

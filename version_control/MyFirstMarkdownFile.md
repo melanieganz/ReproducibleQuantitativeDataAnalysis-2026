@@ -1,6 +1,6 @@
 ﻿# Reproducible Quantitative Data Science
 
-## Markdown exercise  .. cyril's copy -- yet another change
+## this is my new version
 
 **Let’s _write_ some markdown text** _together_ here!
 

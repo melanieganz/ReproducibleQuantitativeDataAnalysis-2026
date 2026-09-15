@@ -38,23 +38,24 @@ Using your PhD research data, protocol, code, etc, write a report explaining fro
 - Programming
 - Good coding practices
 - An introduction to computational analysis methods: permutation, bootstrap, cross-validation, out-of-sample generalization
-- Agentic coding. 
+- Agentic coding. The lecture is inspited from Russ' Poldrack 2025 AI testing repo
 - Time to update your code - implement some of the practices discussed today using agentic coding, let's review each other work/discuss. Tip: don't forget to version control your code, makes it easier to see what the agent changes.
 
-*Please prepare before the course*:
+Please prepare before the course:
 
 - Install python for [windows](https://www.python.org/downloads/) or [mac](https://www.python.org/downloads/macos/)
 - Install pip (package manager for python)
-- Install [VSCode](https://code.visualstudio.com/download), open it and sign into your github account.  Make sure agents are enabled in your VS Code settings. You can use Copilot for free by signing up for the [Copilot Free plan](https://github.com/settings/copilot/features) and get a monthly allowance of inline suggestions and AI credits. It helps to let VSCode run code in the terminal - depending on what admin rights you have - check [code.visualstudio.com/docs/terminal/shell-integration](https://code.visualstudio.com/docs/terminal/shell-integration).
+- Install [VSCode](https://code.visualstudio.com/download), open it and sign into your github account. Make sure agents are enabled in your VS Code settings. You can use Copilot for free by signing up for the [Copilot Free plan](https://github.com/settings/copilot/features) and get a monthly allowance of inline suggestions and AI credits. It helps to let VSCode run code in the terminal - depending on what admin rights you have - check [code.visualstudio.com/docs/terminal/shell-integration](https://code.visualstudio.com/docs/terminal/shell-integration).
 
 ### Day 4 - Better analyses
 
 - Understanding p-values (see notebook)
 - P-hacking your data
 - Feedback on coursework and discuss further issues to make your PhD reproducible
-- Computational reproducibility 
+- [Computational reproducibility] the lecture is inpired by the 2023/2024/2025 lecture from Michael Hanke see his repository here (lecture and practical all afternoon).
+- Time to update your code - implement environment control using agentic coding. Tip: VS code has a docker extension.
 
-*Please prepare before the course*:
+Please prepare before the course:
 
 - [install docker on your own machine](https://docs.docker.com/engine/install/) so you can use a container and then build a container. For windows users, you need 1st to have the linux subsystem insalled (in power shell, type ``wsl-ext --install``)
 - [install uv](https://docs.astral.sh/uv/getting-started/installation/) this is a package managment + virtual environment that plays well with python
